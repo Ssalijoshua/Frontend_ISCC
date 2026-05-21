@@ -1,0 +1,20 @@
+/* Here we are styling elements using their tags */
+h1 {
+    color : rgb(255, 38, 0)
+}
+
+p {
+    color : rgb(0, 76, 255)
+}
+
+/* Here we are styling elements using their classes */
+.test1 {
+    color : rgb(45, 219, 22)
+}
+
+
+
+/* Styling using IDs(Starts with #) */
+#freestar {
+    color : rgb(255, 247, 0)
+}
